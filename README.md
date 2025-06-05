@@ -115,7 +115,7 @@
                     <img src="img/projeto-3.png" class="img-fluid w-100" alt="Imagem representativa do robô">
                 </div>
                 <div class="modal-footer">
-                    <a href="https://github.com/brayan/robotica-arduino">Ver código do projeto</a>
+                    <a href="https://github.com/settings/profile">Ver código do projeto</a>
                 </div>
             </div>
         </div>
